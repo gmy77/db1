@@ -1,16 +1,11 @@
 ---
-- File: esd-decrypter-wimlib-34.7z
-- CRC-32: bfee2403
-- MD5: 69668cd8ec65a05474151f7bad6a6122
-- SHA-1: e21e88a8c6b0fa86be030d719780910f51623ddb
-- SHA-256: 67774d9dfe270336b84005394e8e5c520b945509ef10404934243cb5be668165
+
 ---
 - File: KMS_VL_ALL-SppExtComObjPatcher-kms-19.7z
- -CRC-32: 5ff8d877
+- CRC-32: 5ff8d877
 - MD5: 621b8da4b17befd682d5d0ea7b741db8
 - SHA-1: 8090a91dcdd1a9d0031afb1034a4adf3c1e5b36f
 - SHA-256: 4588c8667a5e705d76896ae9dbbdae22d697971b1abbfff9dfbbc14c9d35e3ce
-- SHA3-256: c6ca0347599bbdd0c0ecc27e2022fd29d8949103e1f698fa0784c397838d029c
 ---
 - File: KMS_VL_ALL-WinDivert-kms.7z
 - CRC-32: 5be61e4d
